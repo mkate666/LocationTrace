@@ -23,5 +23,5 @@ You need a private Telegram bot that will forward location updates to you.
 # 📦 Step 2: Configure the Tracker Server
 1. Fork this repo by clicking the button below
 
-![Fork (https://img.shields.io/badge/Fork-LocationTrace-blue?style=for-the-badge&logo=github)](https://github.com/mkate666/LocationTrace/fork)
+[![Fork (https://img.shields.io/badge/Fork-LocationTrace-blue?style=for-the-badge&logo=github)](https://github.com/mkate666/LocationTrace/fork)
 
