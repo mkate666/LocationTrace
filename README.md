@@ -47,3 +47,9 @@ You need a private Telegram bot that will forward location updates to you.
     <img src="https://img.shields.io/badge/Deploy%20with-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deploy with Vercel" />
   </a>
 </p>
+
+3. Select your forked repo from vercel and fill in your enviromental variables.
+  your expected environmental variables are:
+`BOT_TOKEN`
+`CHAT_ID`
+`AUTH_TOKEN`
