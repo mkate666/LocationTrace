@@ -53,3 +53,11 @@ You need a private Telegram bot that will forward location updates to you.
 `BOT_TOKEN`
 `CHAT_ID`
 `AUTH_TOKEN`
+
+**BOT_TOKEN** should contain the bot token you got from botFather in telegram
+
+**CHAT_ID** sould contain your user id yougot from userinfobot on telegram
+
+**AUTH_TOKEN** this is your pesonal password it can be anything example **joker12345**
+
+click Deploy and wait for the deployment process to be completed. go to dashboard and get your server url.
