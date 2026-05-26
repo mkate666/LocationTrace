@@ -37,7 +37,7 @@ You need a private Telegram bot that will forward location updates to you.
   </a>
 </p>
 
-during repo forking, you can give your repository any name of your choice.
+> during repo forking, you can give your repository any name of your choice.
 
 2. Deploying your project on vercel:
 
