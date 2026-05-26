@@ -1,7 +1,7 @@
 # OMNIRAT — Quick Setup Guide
 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/mkate666/LocationTrace/stargazers">
     <img src="https://img.shields.io/github/stars/mkate666/LocationTrace?style=for-the-badge" />
   </a>
