@@ -1,6 +1,6 @@
 # OMNIRAT — Quick Setup Guide
 
-[![Stars](https://img.shields.io/github/stars/OWNER/REPO?style=social)](https://github.com/OWNER/REPO/stargazers) [![Forks](https://img.shields.io/github/forks/OWNER/REPO?style=social)](https://github.com/OWNER/REPO/network/members) [![Deploy Vercel](https://img.shields.io/badge/deploy-vercel-black)](https://vercel.com)
+[![Stars](https://img.shields.io/github/stars/mkate666/LocationTrace?style=social)](https://github.com/mkate666/LocationTrace/stargazers) [![Forks](https://img.shields.io/github/forks/mkate666/LocationTrace?style=social)](https://github.com/mkate666/LocationTrace/network/members) [![Deploy Vercel](https://img.shields.io/badge/deploy-vercel-black)](https://vercel.com)
 
 Follow these concise, step-by-step instructions to install the tracker app, create a Telegram bot for alerts, and host the `api/track.js` endpoint so the system works 100%.
 
