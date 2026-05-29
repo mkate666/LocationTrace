@@ -42,7 +42,7 @@ You need a private Telegram bot that will forward location updates to you.
 2. Deploying your project on vercel:
 
    click the button below to deploy your forked repo on vercel
-   <p align="center">
+   <p align="left">
   <a href="https://vercel.com">
     <img src="https://img.shields.io/badge/Deploy%20with-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Deploy with Vercel" />
   </a>
@@ -64,6 +64,17 @@ click Deploy and wait for the deployment process to be completed. go to dashboar
 keep your url safe together with your auth token, youll need it later.
 
 
-# 🍊 Step 3
 
 
+
+
+# 🍊 Step 3 - Installation
+
+
+
+
+<p align="left">
+  <a href="https://your-download-link.com">
+    <img src="https://img.shields.io/badge/Download%20App-100000?style=for-the-badge&logo=android&logoColor=white" alt="Download App" />
+  </a>
+</p>
